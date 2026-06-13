@@ -1,0 +1,8 @@
+[
+  {
+    "id": "20240101_001",
+    "en": "Failed to connect to the database.",
+    "ja": "データベースへの接続に失敗しました。",
+    "checks": [false, false, false, false, false]
+  }
+]
